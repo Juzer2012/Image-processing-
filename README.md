@@ -1,0 +1,2 @@
+# Image-processing-
+The project is all about detecting the red colour and stop the vehicle as soon as it detect the red colour. For image capturing i have used my old creative webcam and MATLAB for coding. And on the other side i have use arduino uno and motor drive shield to run the car. The arduino and MATLAB are communicating through serial port. All the required files for this project will be provided in this repository so stay tune.  
